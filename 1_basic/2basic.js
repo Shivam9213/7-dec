@@ -17,3 +17,7 @@ let functionname= function(){
     console.log("harry putter");
     
 }
+let functionjname= function(){
+    console.log("harry putter");
+    
+}
